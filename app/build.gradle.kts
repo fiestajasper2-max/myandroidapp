@@ -9,6 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.myandroidapp"
+
         minSdk = 23
         targetSdk = 35
 
